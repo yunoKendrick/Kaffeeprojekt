@@ -9,6 +9,7 @@ namespace Kaffee_projekt.Tests
         [Test]
         public void TestCase()
         {
+prinf("Hello world");
         }
     }
 }
