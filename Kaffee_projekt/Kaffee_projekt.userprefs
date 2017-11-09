@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DF4F2AA1-43B6-4CDB-8D84-C3CDBAD84ADD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kaffee_projekt/Default.aspx">
+    <Files>
+      <File FileName="Kaffee_projekt/Default.aspx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Kaffee__projekt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

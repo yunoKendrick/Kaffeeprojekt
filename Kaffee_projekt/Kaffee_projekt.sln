@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaffee_projekt", "Kaffee_projekt\Kaffee_projekt.csproj", "{DF4F2AA1-43B6-4CDB-8D84-C3CDBAD84ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaffee_projekt.Tests", "Kaffee_projekt.Tests\Kaffee_projekt.Tests.csproj", "{8D1B2810-B73B-4BAB-8D0E-B65135855235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF4F2AA1-43B6-4CDB-8D84-C3CDBAD84ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4F2AA1-43B6-4CDB-8D84-C3CDBAD84ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4F2AA1-43B6-4CDB-8D84-C3CDBAD84ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4F2AA1-43B6-4CDB-8D84-C3CDBAD84ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1B2810-B73B-4BAB-8D0E-B65135855235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1B2810-B73B-4BAB-8D0E-B65135855235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1B2810-B73B-4BAB-8D0E-B65135855235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1B2810-B73B-4BAB-8D0E-B65135855235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

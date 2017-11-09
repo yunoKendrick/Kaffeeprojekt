@@ -1,0 +1,5 @@
+/home/cafe_projekt/Projects/Kaffee/Kaffee/bin/Debug/Kaffee.exe
+/home/cafe_projekt/Projects/Kaffee/Kaffee/bin/Debug/Kaffee.pdb
+/home/cafe_projekt/Projects/Kaffee/Kaffee/obj/x86/Debug/Kaffee.csproj.CoreCompileInputs.cache
+/home/cafe_projekt/Projects/Kaffee/Kaffee/obj/x86/Debug/Kaffee.exe
+/home/cafe_projekt/Projects/Kaffee/Kaffee/obj/x86/Debug/Kaffee.pdb

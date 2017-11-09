@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{49D47675-83B4-43AC-BC11-444679FF8DEF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kaffee/Program.cs">
+    <Files>
+      <File FileName="Kaffee/Program.cs" Line="10" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Kaffee PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
